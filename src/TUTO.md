@@ -1,4 +1,4 @@
-#Ecrire un fichier .md
+# Ecrire un fichier .md
 
 # H1
 ## H2
@@ -39,13 +39,13 @@ _italic_, *italic*
 
 ![Add an Image](img.png "Title Text")
 
-Ceci est un lien: [Github](github.com)
-Ceci est aussi un lien : http://www.github.com
-[![Add an Image](img.png "Image cliquable")](github.com)
+Ceci est un lien: [Github](https://github.com/)
+Ceci est aussi un lien : https://github.com/
+[![Add an Image](img.png "Image cliquable")](https://github.com/)
 
-Ref #1
+Ref #4
 
-@mention
+@tasmim-concept
 
 > Citation
 >> Sous-citation
