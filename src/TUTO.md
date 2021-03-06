@@ -43,6 +43,8 @@ Ceci est un lien: [Github](https://github.com/)
 Ceci est aussi un lien : https://github.com/
 [![Add an Image](img.png "Image cliquable")](https://github.com/)
 
+⚠️👌✋🖐️🧠👑
+
 Ref #4
 
 @tasmim-concept
